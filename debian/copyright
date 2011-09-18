@@ -1,5 +1,5 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: cppreference-en-doc
+Upstream-Name: cppreference-doc
 Source: http://en.cppreference.com/w/Cppreference:Archives
 
 Files: reference/en.cppreference.com/*,
