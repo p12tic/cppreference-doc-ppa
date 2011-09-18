@@ -1,3 +1,9 @@
+cppreference-en-doc (20110918-2) unstable; urgency=low
+
+  * Silence a lintian warning regarding the standards version
+
+ -- p12 <tir5c3@yahoo.co.uk>  Sun, 18 Sep 2011 17:21:21 +0000
+
 cppreference-en-doc (20110918-1) unstable; urgency=low
 
   * Initial release
